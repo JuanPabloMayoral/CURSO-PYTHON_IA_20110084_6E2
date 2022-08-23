@@ -3,7 +3,7 @@
 # _*_ coding: 850 _*_
 # _*_ coding: utf-8 _*_
 
-nombre = "enrique barros fern·ndez"
+nombre = "enrique barros fern√°ndez"
 print(nombre.title())
 
 frase = "Esta Es Una Frase Para Ser Formateada"
